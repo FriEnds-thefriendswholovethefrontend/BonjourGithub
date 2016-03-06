@@ -2,7 +2,7 @@
 欢迎来到我们的组织，让我们来开启新世界的大门吧。
 
 ### 聊天室
-channel：https://gitter.im/uolcano/FriEnds     
+chat channel：https://gitter.im/FriEnds-thefriendswholovethefrontend/Chat     
 直接使用Github账户登录即可
 #### 为何要用gitter？
 gitter聊天室支持Markdown语法，可以高亮代码    
